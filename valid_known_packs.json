@@ -1,0 +1,261 @@
+
+[
+	
+	{
+		"file_version" : 2
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/vanilla",
+		"uuid" : "0575c61f-a5da-4b7f-9961-ffda2908861e",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/chemistry",
+		"uuid" : "0fba4063-dba1-4281-9b89-ff9390653530",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.17.0",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.17.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/CuteHearts©.zip",
+		"uuid" : "31bc51ad-4297-401f-93d3-1316ae336b6a",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16.100",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.100"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16.210",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.210"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/mine-wars-1-0.zip",
+		"uuid" : "81dce32c-ee00-11e6-bc64-92361f002671",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/chemistry",
+		"uuid" : "6baf8b62-8948-4c99-bb1e-a0cb35dc4579",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16.200",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.200"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.14",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.14.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.15",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.15.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.16.220",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.220"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_1.17.10",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.17.10"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla_gametest",
+		"uuid" : "fd375b0a-4bdd-4572-9268-e55a79cf99d3",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "jS6FT+BCCuXt2UL5BR6jhQ8T6e2j1ImO01sr7J8mDxc=" ],
+		"path" : "behavior_packs/experimental_caves_and_cliffs_internal",
+		"uuid" : "00c11a70-6e95-4a38-8ce7-ac6917b783de",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "oII5gRnVOmMLYnKtJ7u49VlKZODTXZqmVDWRZ3TX/Fc=" ],
+		"path" : "behavior_packs/test_vanilla_1.11",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.11.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/experimental_caves_and_cliffs",
+		"uuid" : "8a779527-33b2-4dc6-abf4-947860a6d16d",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "yNqLu6W+XZoGAiWTgt4zYLUeovu3Y4pmx5/gL4b8EMI=" ],
+		"path" : "behavior_packs/test_vanilla_1.12",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.12.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "u1/W7Kd6/VQxiDLEoMJlg9yOd5G19CLY+DNaB5ptO+E=" ],
+		"path" : "behavior_packs/DGRB",
+		"uuid" : "ee649bcf-256c-4013-9068-6a802b89d756",
+		"version" : "3.8.1419"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "2xuNx5k1nDIObTKslzmMVJDd6Rt3YMwgDT8SWuylbDU=" ],
+		"path" : "resource_packs/DGRR",
+		"uuid" : "66c6e9a8-3093-462a-9c36-dbb052165822",
+		"version" : "3.8.1419"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "9WQmvAOSwlj9LKO6BOyUjloYIfRayPkCrs94I5kvrWI=" ],
+		"path" : "resource_packs/SuperHeroes armors Addon RES",
+		"uuid" : "53ab8c7e-ae7e-44a5-b1d1-e7aeebe0b04f",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "hG+dIswQPvRn6reY/+sB49CskCyblOEROKy1nOEIk5M=" ],
+		"path" : "resource_packs/Ores Locaters Addon RES",
+		"uuid" : "0e8362da-f656-49a1-9e72-dd7fb57e5c5d",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "C8zbSoF6BZTxvyIMJhZk153U7BQIeUmpXlFh08lyoW4=" ],
+		"path" : "resource_packs/Survival_Guns_Resource_Pack",
+		"uuid" : "05187c6e-f388-4de8-af4a-7e4f73a649f4",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "zZjZf9hRygoDwh8iYKNNu6e74TKw8NSbKqe/BJXUYjI=" ],
+		"path" : "resource_packs/Ultimate Ores+_client",
+		"uuid" : "6c3e7ab3-e321-4455-88a5-a7a9ebd09952",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "7Sy33W1bIf8WGkYXQCJ2U5YH+mPNbHibVO5KJv1fLpU=" ],
+		"path" : "behavior_packs/Survival_Guns_Behavior_Pack",
+		"uuid" : "e6874bc3-aa27-47e8-9014-fd3ce1762e21",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "6rsyGeoLJxyA3/I7+b0R6aBaD5dYJTVkR0kA4ZYI5FU=" ],
+		"path" : "behavior_packs/SuperHeroes armors Addon BEH",
+		"uuid" : "dad5206a-da45-497b-9460-244987a3ba63",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "ljWR1KPNb/yBySniCZZ6azQbfL5FF0//771bIdt7S6o=" ],
+		"path" : "behavior_packs/Ores Locaters Addon BEH",
+		"uuid" : "ab978bc7-e4fc-4f17-b147-d4e602f2a6cd",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "qb33ZYyOmhaSJhwDFLtlTU1Te8kTu+NUVrwyWMY7t8U=" ],
+		"path" : "behavior_packs/Ultimate Ores+_server",
+		"uuid" : "867cb903-cbfd-48e6-84e2-285ba558a0cd",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "y4ZKIOisd0Gb16+/qLRtdJYfrdZDOAz6OfMoLJhaQr0=" ],
+		"path" : "resource_packs/FLOWS HD 128x128 OFICIAL.zip",
+		"uuid" : "b78f3052-485c-3e4d-9750-24f50529bd20",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "nr0itpLSuCxSEL4IZKCeB75leqC24Ewv8VOkvh8qW48=" ],
+		"path" : "development_resource_packs/Star Wars texture pack_resource_pack",
+		"uuid" : "e610f3cc-9b25-454b-9691-62a232fc2061",
+		"version" : "1.8.0"
+	}
+]

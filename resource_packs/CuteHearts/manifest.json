@@ -1,0 +1,30 @@
+{
+   "format_version": 2,
+   "header": {
+      "description": "§dYou have to protect these cute hearts with your life!  if you don't want to lose her..\n\nCreated by: §a§oLegendary Creeper§r\n\n§dIn Coperation with: §aCreeper Studios©\n\n§dOnly avaible on: §aMcpedl & Mcpecore.",
+      "min_engine_version": [
+         1,
+         16,
+         0
+      ],
+      "name": "§4§lCute Hearts?! ©",
+      "uuid": "31bc51ad-4297-401f-93d3-1316ae336b6a",
+      "version": [
+         0,
+         0,
+         1
+      ]
+   },
+   "modules": [
+      {
+         "description": "Example vanilla resource pack",
+         "type": "resources",
+         "uuid": "743f6949-53be-44b6-b326-398005028819",
+         "version": [
+            0,
+            0,
+            1
+         ]
+      }
+   ]
+}

@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "81dce32c-ee00-11e6-bc64-92361f002671",
+    "name": "Star award",
+    "packs_version": "0.0.1",
+    "description": "live in a Galaxy Far Far away...  NOTE: This was ported from a older version of MCPE Some textures are the same/and or missing",
+    "modules": [
+      {
+        "description": "live in a Galaxy Far Far away...  NOTE: This was ported from a older version of MCPE Some textures are the same/and or missing",
+        "version": "0.0.1",
+        "uuid": "81dce408-ee00-11e6-bc64-92361f002671",
+        "type": "resources"
+      }
+    ]
+  }
+}

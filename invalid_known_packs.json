@@ -1,0 +1,34 @@
+
+[
+	
+	{
+		"file_version" : 2
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "vL0p45oSlu/Nlsa5oUlPi2ybPmToVzoaH5jHGbBT5SM=" ],
+		"path" : "behavior_packs/vanilla_gametest",
+		"uuid" : "00000000-0000-0000-0000-000000000000",
+		"version" : "0.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "TcgfZaMMsBFw5rChsnaVGK29KamYaAEY11hy3vtF5NE=" ],
+		"path" : "behavior_packs/vanilla_1.16.210",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.210"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "XgLOwmlZ4bFfXzmxiABu2qHqYM+Ep346atkJ0BOdk4I=" ],
+		"path" : "behavior_packs/vanilla_1.16.220",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "1.16.220"
+	}
+]

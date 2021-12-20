@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "live in a Galaxy Far Far away...  NOTE: This was ported from a older version of MCPE Some textures are the same/and or missing",
+      "name" : "Star award",
+      "uuid" : "81dce32c-ee00-11e6-bc64-92361f002671",
+      "version" : [ 0, 0, 1 ]
+   },
+   "modules" : [
+      {
+         "description" : "live in a Galaxy Far Far away...  NOTE: This was ported from a older version of MCPE Some textures are the same/and or missing",
+         "type" : "resources",
+         "uuid" : "81dce408-ee00-11e6-bc64-92361f002671",
+         "version" : [ 0, 0, 1 ]
+      }
+   ]
+}
